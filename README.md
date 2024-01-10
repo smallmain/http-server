@@ -11,11 +11,8 @@ Read this in other languages: English | [简体中文](./README_zh-CN.md)
 This is an HTTP server written in Rust with the following features:
 
 - Simple and easy to use
-
 - Support multi-thread processing of requests
-
 - Support setting listening address and port
-
 - Support setting the specified directory as the root route
 
 > This project is for private use only, has not been rigorously tested, and is not recommended for use in very formal production environments.
